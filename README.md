@@ -28,7 +28,6 @@ I am a data science and machine learning practitioner focused on **AI for health
 
 I design predictive and decision-support systems that are rigorously validated, explainable to their users, and built to reduce repetitive, high-burden workflows for clinicians and researchers. I treat ethics, policy, and governance as part of engineering practice.
 
-**Status:** Biology major, Computer Science minor, CCBC Honors College ·
 
 ---
 
