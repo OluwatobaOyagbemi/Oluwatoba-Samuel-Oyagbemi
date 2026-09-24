@@ -17,7 +17,6 @@ Professional Portfolio
 ![Medics in Tech](https://img.shields.io/badge/Medics%20in%20Tech-Fellow-0f172a?style=for-the-badge)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oluwatoba-oyagbemi-24ba52323/)
-[![Email](https://img.shields.io/badge/Email-Contact-0f766e?style=flat-square&logo=gmail&logoColor=white)](mailto:oyagbemitoba@gmail.com)
 
 </div>
 
