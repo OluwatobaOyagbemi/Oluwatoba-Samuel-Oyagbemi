@@ -18,9 +18,7 @@ Professional Portfolio
 ![CCBC](https://img.shields.io/badge/CCBC-Honors%20College-2563eb?style=for-the-badge)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oluwatoba-oyagbemi-24ba52323/)
-[![Email](https://img.shields.io/badge/Email-Contact-0f766e?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View-2563eb?style=flat-square)](https://YOUR-PORTFOLIO-LINK)
-![Profile views](https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&style=flat-square&color=0f172a)
+[![Email](https://img.shields.io/badge/Email-Contact-0f766e?style=flat-square&logo=gmail&logoColor=white)](mailto:oyagbemitoba@gmail.com)
 
 </div>
 
