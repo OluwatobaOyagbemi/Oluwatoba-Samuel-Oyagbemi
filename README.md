@@ -15,7 +15,6 @@ Professional Portfolio
 ![CodePath](https://img.shields.io/badge/CodePath-AI%20Engineering%20Fellow-2563eb?style=for-the-badge)
 ![AI4ALL](https://img.shields.io/badge/AI4ALL-Ignite%20Fellow-0f766e?style=for-the-badge)
 ![Medics in Tech](https://img.shields.io/badge/Medics%20in%20Tech-Fellow-0f172a?style=for-the-badge)
-![CCBC](https://img.shields.io/badge/CCBC-Honors%20College-2563eb?style=for-the-badge)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oluwatoba-oyagbemi-24ba52323/)
 [![Email](https://img.shields.io/badge/Email-Contact-0f766e?style=flat-square&logo=gmail&logoColor=white)](mailto:oyagbemitoba@gmail.com)
@@ -88,7 +87,7 @@ My research interests include cardiology, neurology, and toxicology, particularl
 | **Objective** | Characterize patterns in chronic disease data to inform predictive modeling |
 | **Method** | Data cleaning, visualization, feature exploration, baseline modeling |
 | **Stack** | Python, pandas, Jupyter |
-
+ | **Repository** |https://github.com/OluwatobaOyagbemi/CHRONIC-DISEASES-EDA|
 
 ---
 
