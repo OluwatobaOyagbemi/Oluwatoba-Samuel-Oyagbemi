@@ -51,24 +51,6 @@ I design predictive and decision-support systems that are rigorously validated, 
 | **Computational Medicine** | Integrating biological knowledge with clinical and molecular data |
 | **Responsible AI** | Validation integrity, fairness and explainability, documentation, human oversight |
 
----
-
-## Experience and Training
-
-| Role | Organization | Period |
-|---|---|---|
-| AI Engineering Fellow | CodePath | Sep 2026 – Present |
-| Ignite Fellow | AI4ALL | [add dates] |
-| Fellow | Medics in Tech | [add dates] |
-| Data Science Intern | TechCrush | [add dates] |
-| Data Science Intern | CodeAlpha Technologies | [add dates] |
-
-## Education
-
-| Institution | Program | Details |
-|---|---|---|
-| Community College of Baltimore County (CCBC) | Biology (major), Computer Science (minor) | Honors College; transferring to Morgan State University |
-| University of Ibadan, Nigeria | Preclinical veterinary training | Cumulative GPA 3.62 |
 
 ---
 
@@ -90,7 +72,6 @@ My research interests include cardiology, neurology, and toxicology, particularl
 | **Method** | Gradient Boosting classifier trained on a 100,000-record dataset; SHAP feature attribution; benchmarking against accepted clinical thresholds |
 | **Results** | **97% accuracy** · **0.979 ROC-AUC** |
 | **Stack** | Python, scikit-learn, SHAP, Streamlit |
-| **Repository** | [View on GitHub](https://github.com/YOUR-GITHUB-USERNAME/REPO-NAME) |
 
 ### Diabetes Risk Prediction
 
@@ -110,7 +91,6 @@ My research interests include cardiology, neurology, and toxicology, particularl
 | **Objective** | Characterize patterns in chronic disease data to inform predictive modeling |
 | **Method** | Data cleaning, visualization, feature exploration, baseline modeling |
 | **Stack** | Python, pandas, Jupyter |
-| **Repository** | [View on GitHub](https://github.com/YOUR-GITHUB-USERNAME/REPO-NAME) |
 
 ### In Development
 
@@ -177,33 +157,6 @@ I am actively developing expertise in this area and am integrating it into my pr
 - AI methods for scientific discovery
 - Governance-aligned documentation and evaluation practices
 - Production-grade engineering: testing, reproducibility, and deployment
-
----
-
-## GitHub Metrics
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR-GITHUB-USERNAME&theme=github" alt="Profile details" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOUR-GITHUB-USERNAME&theme=github" alt="Repos per language" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YOUR-GITHUB-USERNAME&theme=github" alt="GitHub stats" />
-
-</div>
-
----
-
-## Contribution Activity
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR-GITHUB-USERNAME/YOUR-GITHUB-USERNAME/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR-GITHUB-USERNAME/YOUR-GITHUB-USERNAME/output/github-snake.svg" />
-  <img alt="Contribution graph animation" src="https://raw.githubusercontent.com/YOUR-GITHUB-USERNAME/YOUR-GITHUB-USERNAME/output/github-snake.svg" />
-</picture>
-
-</div>
 
 ---
 
