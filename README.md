@@ -101,7 +101,7 @@ My research interests include cardiology, neurology, and toxicology, particularl
 | **Results** | **97.5% accuracy** · **0.997 ROC-AUC** |
 | **Validation integrity** | Identified and remediated potential SMOTE data leakage; resampling is confined to training folds, and the correction was documented publicly |
 | **Stack** | Python, scikit-learn, imbalanced-learn, Streamlit |
-| **Repository** | [View on GitHub](https://github.com/YOUR-GITHUB-USERNAME/REPO-NAME) |
+| **Repository** | https://github.com/OluwatobaOyagbemi/Diabetes-Machine-Learning-Model |
 
 ### Chronic Disease Exploratory Data Analysis
 
