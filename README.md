@@ -167,8 +167,8 @@ Open to research opportunities in computational biology, biomedical AI, and heal
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Oluwatoba%20Oyagbemi-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oluwatoba-oyagbemi-24ba52323/)
-[![Email](https://img.shields.io/badge/Email-Get%20in%20touch-0f766e?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-2563eb?style=for-the-badge)](https://YOUR-PORTFOLIO-LINK)
+[![Email](https://img.shields.io/badge/Email-Get%20in%20touch-0f766e?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oyagbemitoba@gmail.com)
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,55:2563EB,100:0F766E&height=110&section=footer" alt="Footer" />
 
