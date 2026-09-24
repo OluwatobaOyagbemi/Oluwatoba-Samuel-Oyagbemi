@@ -25,7 +25,7 @@ Professional Portfolio
 
 ## Professional Summary
 
-Data science and machine learning practitioner focused on **AI for healthcare systems and scientific discovery**. My path into biomedical AI began in my preclinical year as a **Medics in Tech Fellow**, and it now combines a Biology major, a Computer Science minor, applied machine learning projects, data science internships, and an **AI Engineering Fellowship at CodePath**.
+Data science and machine learning practitioner focused on **AI for healthcare systems and scientific discovery**. My path into Med-tech began in my pre-clinical year during a fellowship at **Medics in Tech**, and it now combines a Biology major, a Computer Science minor, applied machine learning projects, data science internships, and an AI Engineering Fellowship at CodePath.
 
 I design predictive and decision-support systems that are rigorously validated, explainable to their users, and built to reduce repetitive, high-burden workflows for clinicians and researchers. I treat ethics, policy, and governance as part of engineering practice.
 
