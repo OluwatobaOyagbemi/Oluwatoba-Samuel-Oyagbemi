@@ -24,7 +24,7 @@
 
 ## Professional Summary
 
-Data science and machine learning practitioner focused on **AI for healthcare systems and scientific discovery**. My path into Med-tech began in my pre-clinical year during a fellowship at **Medics in Tech**, and it now combines a Biology major, a Computer Science minor, applied machine learning projects, data science internships, and an AI Engineering Fellowship at CodePath.
+I am a data science and machine learning practitioner focused on **AI for healthcare systems and scientific discovery**. My path into Med-tech began in my pre-clinical year during a fellowship at **Medics in Tech**. I pair a **Biology major** with a **Computer Science minor**, which lets me work on both sides of a problem: I understand the biological and clinical questions, and I can build the computational tools to answer them. I am on the pathway of building robust, scalable solutions for real needs in healthcare and innovative systems that streamline the repetitive tasks people face every day.
 
 I design predictive and decision-support systems that are rigorously validated, explainable to their users, and built to reduce repetitive, high-burden workflows for clinicians and researchers. I treat ethics, policy, and governance as part of engineering practice.
 
