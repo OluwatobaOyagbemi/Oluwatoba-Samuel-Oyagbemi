@@ -1,7 +1,6 @@
 # Oluwatoba Samuel Oyagbemi
 Professional Portfolio
-<!-- SETUP: Create a public repo named EXACTLY your GitHub username, add a README,
-     and paste this in. Search for "YOUR-" and "[add" to find placeholders. -->
+
 
 <div align="center">
 
@@ -31,9 +30,9 @@ Professional Portfolio
 
 Data science and machine learning practitioner focused on **AI for healthcare systems and scientific discovery**. My path into biomedical AI began in my preclinical year as a **Medics in Tech Fellow**, and it now combines a Biology major, a Computer Science minor, applied machine learning projects, data science internships, and an **AI Engineering Fellowship at CodePath**.
 
-I design predictive and decision-support systems that are rigorously validated, explainable to their users, and built to reduce repetitive, high-burden workflows for clinicians and researchers. I treat ethics, policy, and governance as part of engineering practice, and I am currently building a healthcare AI platform (see [In Development](#in-development)).
+I design predictive and decision-support systems that are rigorously validated, explainable to their users, and built to reduce repetitive, high-burden workflows for clinicians and researchers. I treat ethics, policy, and governance as part of engineering practice.
 
-**Status:** Biology major, Computer Science minor, CCBC Honors College · Transferring to Morgan State University
+**Status:** Biology major, Computer Science minor, CCBC Honors College ·
 
 ---
 
