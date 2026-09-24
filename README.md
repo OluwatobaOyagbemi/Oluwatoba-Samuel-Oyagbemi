@@ -89,14 +89,6 @@ My research interests include cardiology, neurology, and toxicology, particularl
 | **Method** | Data cleaning, visualization, feature exploration, baseline modeling |
 | **Stack** | Python, pandas, Jupyter |
 
-### In Development
-
-| | |
-|---|---|
-| **Project** | Healthcare AI platform |
-| **Status** | Active development, founder-led |
-| **Details** | To be announced |
-| **Indicator** | <img src="assets/status.svg" alt="Status: platform in development" height="28" /> |
 
 ---
 
