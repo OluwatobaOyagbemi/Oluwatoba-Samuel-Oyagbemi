@@ -66,7 +66,7 @@ My research interests include cardiology, neurology, and toxicology, particularl
 | **Method** | Gradient Boosting classifier trained on a 100,000-record dataset; SHAP feature attribution; benchmarking against accepted clinical thresholds |
 | **Results** | **97% accuracy** · **0.979 ROC-AUC** |
 | **Stack** | Python, scikit-learn, SHAP, Streamlit |
-
+Streamlit deployed link: https://diabetes-machine-learning-model-uitg82vcjvvfzwqwjprt4c.streamlit.app/
 ### Diabetes Risk Prediction
 
 | | |
