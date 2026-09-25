@@ -4,9 +4,9 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F766E,45:2563EB,100:0F172A&height=220&section=header&text=Oluwatoba%20Samuel%20Oyagbemi&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Biomedical%20AI%20%7C%20Data%20Science%20%7C%20Responsible%20AI&descSize=18&descAlignY=58" alt="Oluwatoba Samuel Oyagbemi" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F766E,45:2563EB,100:0F172A&height=220&section=header&text=Oluwatoba%20Samuel%20Oyagbemi&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Biomedical%20AI%20%7C%20Data%20Science%20%7C%20Explainable%20AI&descSize=18&descAlignY=58" alt="Oluwatoba Samuel Oyagbemi" />
 
-<a href="https://github.com/YOUR-GITHUB-USERNAME">
+<a href="https://github.com/OluwatobaOyagbemi">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=21&duration=2800&pause=900&color=0F766E&center=true&vCenter=true&width=900&lines=Machine+learning+for+healthcare+and+clinical+science;AI+for+scientific+discovery;Workflow+automation+for+clinical+and+research+teams;Responsible+AI%3A+ethics%2C+policy%2C+and+governance" alt="Focus areas" />
 </a>
 
